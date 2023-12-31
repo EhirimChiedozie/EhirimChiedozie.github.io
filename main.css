@@ -60,8 +60,8 @@ nav a:hover{
     font-family: 'Courier New', Courier, monospace;
     background-color: darkslateblue;
     font-size: 40px;
-    height: 60px;
-    width: 44%;
+    height: 80px;
+    width: 80%;
     margin-left: 12px;
     padding-left: 12px;
     color: lightsteelblue;
@@ -70,7 +70,6 @@ nav a:hover{
     display: flex;
 }
 .writings{
-    margin-top: 12px;
     background-color: bisque;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: darkorchid;
